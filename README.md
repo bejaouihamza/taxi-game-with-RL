@@ -22,6 +22,3 @@
 
 <p>I want to express my gratitude to the <a href="https://www.deeplearning.ai/">deeplearning.ai</a> course on "Unsupervised Learning, Recommenders, and Reinforcement." The knowledge and insights gained from this course were instrumental in the success of this project.</p>
 
-<h3>Check Out the Code</h3>
-
-<p>If you’re interested in the details of the implementation, feel free to explore the project on GitHub: <a href="https://github.com/bejaouihamza/taxi-game-with-RL.git">Taxi Game with Reinforcement Learning</a>. The repository includes the full source code, along with explanations and examples to help you get started with your own reinforcement learning projects.</p>
